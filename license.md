@@ -1,5 +1,3 @@
 # The license
 
-Copyright (c) author name <author email>
-
-...Add your license text here...
+Copyright (c) hosomikai <showking111@gmail.com>
