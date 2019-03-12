@@ -37,6 +37,8 @@ class SPGateway
             'LoginType' => 0,
             //付款方式相關
             'CREDIT' => 0,
+            'ANDROIDPAY' => 0,
+            'SAMSUNGPAY' => 0,
             'InstFlag' => 0,
             'CreditRed' => '',
             'UNIONPAY' => 0,

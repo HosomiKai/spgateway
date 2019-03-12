@@ -30,6 +30,8 @@ class SPGatewayManager
         $this->_instance->Send['LoginType'] = config('spgateway.LoginType');
         //付款方式相關
         $this->_instance->Send['CREDIT'] = config('spgateway.CREDIT');
+        $this->_instance->Send['ANDROIDPAY'] = config('spgateway.ANDROIDPAY');
+        $this->_instance->Send['SAMSUNGPAY'] = config('spgateway.SAMSUNGPAY');
         $this->_instance->Send['InstFlag'] = config('spgateway.InstFlag');
         $this->_instance->Send['CreditRed'] = config('spgateway.CreditRed');
         $this->_instance->Send['UNIONPAY'] = config('spgateway.UNIONPAY');
